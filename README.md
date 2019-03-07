@@ -1,2 +1,2 @@
-# Colors Table View
+# Colors
 
